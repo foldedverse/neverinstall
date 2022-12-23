@@ -1,6 +1,6 @@
     5  git clone https://github.com/foldedverse/neverinstall.git
     7  cd neverinstall/
-    9  ssh-keygen -t rsa 
+    9  ssh-keygen -t rsa  
    10  cp ~/.ssh/id_rsa .
    11  cat ~/.ssh/id_rsa.pub 
    12  ssh -T git@github.com
