@@ -15,5 +15,5 @@ sudo apt-get update
 sudo apt-get install redis
 
 
-sudo apt install postgresql postgresql-contrib
-sudo systemctl start postgresql.service
+sudo apt install postgresql postgresql-contrib -y
+sudo systemctl start postgresql.service -y
