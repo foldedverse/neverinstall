@@ -11,3 +11,7 @@
    28  git commit -m 'initial'
    29  git push
    30  history > hist.cmd
+   
+   18  ls /etc/init.d/
+   19  sudo service redis-server  start
+   20  sudo service postgresql  start
