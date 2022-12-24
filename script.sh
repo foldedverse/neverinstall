@@ -36,3 +36,4 @@ export PATH
 
 
 rm *.tar.gz
+exit
